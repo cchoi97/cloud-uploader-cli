@@ -1,5 +1,5 @@
 # cloud-uploader-cli
-A simple command-line interface (CLI) tool for uploading files to AWS S3. This script allows users to upload files to a specified S3 bucket, with optional encryption and a feature to generate a pre-signed URL for sharing.
+Bash command-line interface (CLI) tool for uploading files to AWS S3. This script allows users to upload files to a specified S3 bucket, with optional encryption, upload progress display and a feature to generate a pre-signed URL for sharing.
 
 ## Table of contents
 * [Features](#features)
