@@ -55,7 +55,6 @@ Basic Upload:
   * This command uploads your `file.txt` to your specified S3 Bucket.
 
 ## Script Breakdown
-* Shebang Line: #!/bin/bash - Specifies that the script should be run with the Bash shell.
 * Argument Check: Validates that exactly one or two arguments are provided.
 * File Check: Ensures the file exists before attempting to upload.
 * Upload: Uses the AWS CLI to upload the file with optional encryption.
