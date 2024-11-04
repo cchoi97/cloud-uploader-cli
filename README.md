@@ -68,8 +68,8 @@ Basic Upload:
 * Upload Failure: Check AWS CLI configuration, bucket permissions, and credentials.
 
 ## What I Learned
-Building this project on an AWS EC2 instance running Linux, deepened my understanding of setting up and managing an AWS infrastructure.
-Developing the Bash script enhanced my scripting skills, especially by implementing additional features. Encryption for added security, progress bar for better user experience and learned how to generate pre-signed URLs for secure file sharing.
+Building this project on an AWS EC2 instance running Linux deepened my understanding of setting up and managing an AWS infrastructure.
+Developing the Bash script enhanced my scripting skills, especially by implementing additional features; encryption for added security, a progress bar for better user experience and the generation of pre-signed URLs for secure file sharing.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
